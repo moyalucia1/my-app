@@ -1,0 +1,12 @@
+
+
+.contactos__contenedor-formulario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+}
+
+.contactos__formulario{
+    width: 200px;
+}

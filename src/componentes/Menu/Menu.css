@@ -1,0 +1,4 @@
+.menu-botones{
+    display:flex;
+    justify-content: end;
+}

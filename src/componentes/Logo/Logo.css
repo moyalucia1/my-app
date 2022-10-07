@@ -1,0 +1,11 @@
+.logo{
+    height: 100%;
+    width: 20%;
+}
+.logo__imagen{
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid rgba(26, 24, 24, 0.5);
+    
+}
+

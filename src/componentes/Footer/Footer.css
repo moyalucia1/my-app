@@ -1,0 +1,16 @@
+.footer-containers{
+    width: 100vw;
+    height: 20vh;
+    display: block;
+    font-size: medium;
+    color: white;
+    background-color: coral;
+}
+
+.informacion {
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    
+
+}

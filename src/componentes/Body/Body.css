@@ -1,0 +1,23 @@
+.body-containers{
+    width: 100vw;
+    min-height: 40vh;
+    background-color:#8a2be224;
+
+    
+}
+.body-cuerpo{
+ display: flex;
+ height: 100vh;
+
+}
+
+.titulo-hileret{
+    color:  rgb(17, 17, 73);
+    height: 40px;
+}
+
+ 
+
+.boton__buscador{
+    margin: 20px;
+}
